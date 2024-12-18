@@ -1,0 +1,12 @@
+dependencies:
+
+python=3.9.7
+numpy=1.19.2
+spyder=5.1.5
+pytorch=1.10.0
+joblib=1.1.0
+scipy=1.6.2
+matplotlib=3.4.3
+nibabel=3.2.1
+tqdm=4.62.3
+pydicom=2.2.2

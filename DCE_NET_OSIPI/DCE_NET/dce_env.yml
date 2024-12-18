@@ -1,0 +1,15 @@
+name: dce
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - spyder
+  - pytorch
+  - joblib
+  - scipy
+  - matplotlib
+  - nibabel
+  - tqdm
+  - pydicom
