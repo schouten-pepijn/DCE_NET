@@ -1,0 +1,1 @@
+DCE-NET which is a GRU-Attention network for DCE MRI parameter estimation. Included is the final DCE-NET which won the OSIPI DCE MRI Challenge (https://drive.google.com/file/d/12POGgTitC-0jXNTSMIvKJkWWmjtfDJkr/view?usp=sharing) and a DCE-NET with per epoch random patient-based arterial input function shuffling.
